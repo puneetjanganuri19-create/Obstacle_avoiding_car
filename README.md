@@ -41,7 +41,10 @@ L298N motor driver according to the programmed logic.
 ![Block Diagram](Block-Diagram.png)
 
 ## Source Code
-![Source Code](ARDUINO_OBSTACLE_AVOIDING_CAR.ino)
+The Arduino source code for this obstacle-avoiding
+robot is available below.
+
+- [View Arduino Code](ARDUINO_OBSTACLE_AVOIDING_CAR.ino)
 
 ## Results
 ### Robot Prototype
