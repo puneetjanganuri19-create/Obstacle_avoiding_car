@@ -48,7 +48,7 @@ robot is available below.
 
 ## Results
 ### Robot Prototype
-![Obstacle Avoiding Car](Obstacle-Car.jpeg)
+<img src="Obstacle-Car.jpeg" alt="Obstacle Avoiding Car" width="350">
 
 ## Future Improvements
 - Improve obstacle detection and avoidance logic.
