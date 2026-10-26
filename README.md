@@ -38,14 +38,14 @@ L298N motor driver according to the programmed logic.
 ![Circuit Connections](Circuit-Diagram.png)
 
 ## Block Diagram
-![Block Diagram](Block-Diagram.png)
+![Block Diagram](ARDUINO_OBSTACLE_AVOIDING_CAR.ino)
 
 ## Source Code
-Arduino source code to be uploaded.
+![Source Code](Block-Diagram.png)
 
 ## Results
 ### Robot Prototype
-![Obstacle Avoiding Car](Obstacle-Car.png)
+![Obstacle Avoiding Car](Obstacle-Car.jpeg)
 
 ## Future Improvements
 - Improve obstacle detection and avoidance logic.
