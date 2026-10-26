@@ -38,7 +38,7 @@ L298N motor driver according to the programmed logic.
 <img src="Circuit-Diagram.png" alt="Circuit Diagram" width="350">
 
 ## Block Diagram
-<img src="Block-diagram.png" alt="Block Diagram" width="350">
+<img src="Block-Diagram.png" alt="Block Diagram" width="350">
 
 ## Source Code
 The Arduino source code for this obstacle-avoiding
