@@ -35,10 +35,10 @@ L298N motor driver according to the programmed logic.
 - Hardware Integration
 
 ## Circuit Diagram
-![Circuit Connections](Circuit-Diagram.png)
+<img src="Circuit-Diagram.png" alt="Circuit Diagram" width="350">
 
 ## Block Diagram
-![Block Diagram](Block-Diagram.png)
+<img src="Block-diagram.png" alt="Block Diagram" width="350">
 
 ## Source Code
 The Arduino source code for this obstacle-avoiding
