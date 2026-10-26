@@ -38,10 +38,10 @@ L298N motor driver according to the programmed logic.
 ![Circuit Connections](Circuit-Diagram.png)
 
 ## Block Diagram
-![Block Diagram](ARDUINO_OBSTACLE_AVOIDING_CAR.ino)
+![Block Diagram](Block-Diagram.png)
 
 ## Source Code
-![Source Code](Block-Diagram.png)
+![Source Code](ARDUINO_OBSTACLE_AVOIDING_CAR.ino)
 
 ## Results
 ### Robot Prototype
